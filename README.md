@@ -1,2 +1,3 @@
 # Submission Bookshelf API
-#### Dicoding class
+#### Dicoding class Membuat Aplikasi Back-end untuk Pemula
+#### With hapijs
